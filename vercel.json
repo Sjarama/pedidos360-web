@@ -3,3 +3,4 @@
   "buildCommand": "cd frontend-pedidos360 && npm run build",
   "outputDirectory": "frontend-pedidos360/dist/pedidos360-web/browser"
 }
+
